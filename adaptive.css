@@ -1,0 +1,126 @@
+@media only screen and (max-width: 1288px ){
+    .main__image-hourse img{
+        width: 475px;
+    }
+}
+
+@media only screen and (max-width: 1202px ){
+    .main__image-hourse img{
+        width: 475px;
+    }
+    .main__text-create {
+        font-size: 52px;
+        width: 68%;
+        left: -158px;
+        top: 239px;
+    }
+}
+
+@media only screen and (max-width: 1080px ){
+    .main__text-create {
+        font-size: 52px;
+        width: 68%;
+        left: -134px;
+        top: 195px;
+    }
+}
+
+@media only screen and (max-width: 1039px ){
+    .main__text-create {
+        font-size: 48px;
+    }
+}
+
+@media only screen and (max-width: 951px ){
+    .main__text-create {
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width: 769px ){
+    .main__text-create {
+        font-size: 35px;
+        left: -100px;
+    }
+    .main__image-hourse img{
+        margin-bottom: 131px;
+        width: 400px;
+    }
+    .main__header ul li {
+        margin-right: 20px;
+    }
+    .main__header{
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 426px ){
+    .main__text-create {
+        left: -30px;
+        top: 173px;
+        font-size: 63px;
+    }
+    .main-first {
+        background-color: white;
+        width: 32%;
+    }
+    .main__image-hourse img{
+        margin-bottom: 100px;
+        width: 800px;
+        margin-top: 0;
+    }
+    .main__header ul li {
+        margin-right: 20px;
+        font-size: 23px;
+    }
+    .main__header{
+        justify-content: center;
+    }
+    .main-second {
+        width: 258%;
+    }
+    .main__image-more img{
+        width: 250px;
+        height: 250px;
+    }
+    .main__image-more {
+        position: absolute;
+        top: 750px;
+        left: -60px;
+    }
+    .main__interior{
+        display: flex;
+        flex-direction: column;
+    }
+    .main__text-ideas{
+        margin-top: 384px;
+        font-size: 31px;
+    }
+    .main__icons img {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+@media only screen and (max-width: 376px ){
+    .main__image-hourse img {
+        margin-bottom: 180px;
+    }
+    
+}
+
+@media only screen and (max-width: 321px ){
+    .main__text-ideas {
+        width: 86%;
+        padding-bottom: 407px;
+    }
+    .main-first {
+        width: 42%;
+    }
+    .main__icons {
+        padding-top: 900%;
+    }
+    .main__image-hourse img {
+        margin-bottom: 255px;
+    }
+}
